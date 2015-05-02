@@ -1,0 +1,18 @@
+{
+  "name": "my-codegen",
+  "version": "0.0.1",
+  "description": "My Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smmoosavi/my-codegen.git"
+  },
+  "keywords": [
+      "code-generator"
+    ],
+  "author": "smmoosavi",
+  "license": "MIT"
+}
